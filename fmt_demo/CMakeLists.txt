@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.10) 
+project(FmtDemo) 
+add_subdirectory(fmt)
+add_executable(greet hello.cpp)                                                                                                                                                                                                                                                                                   
+# set to C++17 (not required)
+set_property(TARGET greet PROPERTY CXX_STANDARD 17)
+target_link_libraries(greet fmt::fmt)
