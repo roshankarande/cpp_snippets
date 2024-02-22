@@ -17,3 +17,6 @@
 - [Concepts of C++ Programming](https://live.rbg.tum.de/?year=2023&term=W&slug=cpp&view=3)
 - [Advanced Programming](https://live.rbg.tum.de/?year=2023&term=W&slug=AdvProg&view=3)
 - [FastCode - ETH Zurich](https://acl.inf.ethz.ch/teaching/fastcode/2024/)
+
+## Cheatsheets
+- [Makefile](https://devhints.io/makefile)
